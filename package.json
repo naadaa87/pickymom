@@ -1,0 +1,10 @@
+{
+  "name": "pickymom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "픽키맘 | 까다롭게 고른 주방·생활·육아용품 기록",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
